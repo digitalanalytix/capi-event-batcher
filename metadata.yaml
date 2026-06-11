@@ -1,0 +1,5 @@
+homepage: "https://github.com/digitalanalytix/capi-event-batcher"
+documentation: "https://github.com/digitalanalytix/capi-event-batcher#readme"
+versions:
+  - sha:
+    changeNotes: "Initial release — server-side conversion event batching for OpenAI Conversions API, Meta Conversions API, TikTok Events API, and custom endpoints."
